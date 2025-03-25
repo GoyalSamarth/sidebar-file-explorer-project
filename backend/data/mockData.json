@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "name": "ProjectA",
+      "modified": "2025-03-21",
+      "owner": "admin",
+      "files": [
+        { "name": "test1.py", "modified": "2025-03-19", "owner": "admin", "type": "py" },
+        { "name": "test2.py", "modified": "2025-03-19", "owner": "admin", "type": "py" },
+        { "name": "file2.docx", "modified": "2025-03-18", "owner": "admin", "type": "docx" }
+      ]
+    },
+    {
+      "name": "ProjectB",
+      "modified": "2025-03-20",
+      "owner": "demo",
+      "files": [
+        { "name": "test3.py", "modified": "2025-03-17", "owner": "demo", "type": "py" },
+        { "name": "file4.py", "modified": "2025-03-16", "owner": "demo", "type": "py" }
+      ]
+    }
+  ]
+}

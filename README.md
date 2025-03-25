@@ -205,6 +205,23 @@ POST /api/batch-run
 
 ```
 
+
+
+
+## Frontend Images
+
+### Login Page
+![image](https://github.com/user-attachments/assets/33d1217d-798b-4598-938d-683a6e7e2b46)
+
+
+
+### Dashboard Page
+![image](https://github.com/user-attachments/assets/f35f6d8b-26c4-4d14-bf92-18870dd2e5d1)
+
+
+
+
+
 ---
 
 ## Common Error Codes
